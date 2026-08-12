@@ -1,2 +1,2 @@
 # Twitter-Analytics-PowerBI
-Twitter Analytics Dashboard developed using Microsoft Power BI to analyze tweet engagement, media interactions, likes, retweets, replies, and engagement rates.
+Twitter Analytics Dashboard built with Power BI | DAX | Power Query | Data Visualization
